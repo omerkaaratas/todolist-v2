@@ -19,30 +19,30 @@ This is a simple web application that allows you to manage your to-do list. It i
 
 ## Usage
 
--To create a new list, enter the desired list name in the input field and click the "+" button.
+- To create a new list, enter the desired list name in the input field and click the "+" button.
 
--To add a new item to a list, enter the item text in the input field and press Enter or click the "+" button.
+- To add a new item to a list, enter the item text in the input field and press Enter or click the "+" button.
 
--To mark an item as complete, check the corresponding checkbox.
+- To mark an item as complete, check the corresponding checkbox.
 
--To delete an item, click the checkbox next to it and it will be removed from the list.
+- To delete an item, click the checkbox next to it and it will be removed from the list.
 
--To view a specific list, you can access it by appending the list name to the URL (e.g., http://localhost:3000/work).
+- To view a specific list, you can access it by appending the list name to the URL (e.g., http://localhost:3000/work).
 
 ## Technologies Used
--Express.js: Fast, unopinionated web framework for Node.js
+- Express.js: Fast, unopinionated web framework for Node.js
 
--MongoDB: NoSQL database for storing the to-do list data
+- MongoDB: NoSQL database for storing the to-do list data
 
--Mongoose: MongoDB object modeling for Node.js
+- Mongoose: MongoDB object modeling for Node.js
 
--EJS: Templating engine for generating dynamic HTML views
+- EJS: Templating engine for generating dynamic HTML views
 
--Bootstrap: CSS framework for responsive and mobile-first design
+- Bootstrap: CSS framework for responsive and mobile-first design
 
 ## Contributing
--Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+- Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
--This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
