@@ -2,6 +2,8 @@
 
 This is a simple web application that allows you to manage your to-do list. It is built using Express.js, MongoDB, and EJS templating.
 
+For the live website: https://todolist-v2-omer-kaaratas.onrender.com/
+
 <img width="1509" alt="Screenshot 2023-06-19 at 09 20 42" src="https://github.com/omerkaaratas/todolist-v2/assets/118741717/6cfefc14-da34-4271-91d2-d21478b2e424">
 
 ## Features
